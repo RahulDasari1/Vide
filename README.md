@@ -1,4 +1,4 @@
-T# ✈️ VIDE – Travel Management Platform
+# ✈️ VIDE – Travel Management Platform
 
 **VIDE** is a modern and responsive Travel Manager web app that helps users explore travel destinations, browse curated tour packages, view galleries, and make travel bookings with ease. Whether you're planning your next vacation or managing a travel agency, VIDE offers a sleek interface and efficient tools to simplify travel planning.
 
